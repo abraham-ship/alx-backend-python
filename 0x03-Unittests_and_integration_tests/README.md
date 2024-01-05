@@ -1,0 +1,7 @@
+# Unittests and Integration Tests
+## Learning Objectives
+
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:<br>
+
+- The difference between unit and integration tests.<br>
+- Common testing patterns such as mocking, parametrizations and fixtures<br>
